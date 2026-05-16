@@ -1,4 +1,4 @@
-# 
+# custom OBS Studio for PC | OBS Studio for Windows Tool | video-encoding + bitrate-control is the best OBS Studio for PC | OBS Studio for Windows tool, featuring video-encoding and
 
 
 
